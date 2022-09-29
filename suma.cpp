@@ -1,12 +1,14 @@
+//anaisstefanynapaortiz
+//modificado 28-09-2022
 #include<iostream> 
  using namespace std; 
  int main() 
  { 
-         float k,p,o; 
-         cout<<"ingrese primer  numeros k=";cin>>k; 
-         cout<<"ingrese el segundo numero p=";cin>>p; 
-         o=k+p; 
-         cout<<"El resultado es "<<k<<" + "<<p<<"="<<o<<endl; 
+         float n,m,s; 
+         cout<<"ingrese primer  numeros n=";cin>>n; 
+         cout<<"ingrese el segundo numero m=";cin>>m; 
+         s=n+m; 
+         cout<<"El resultado es "<<n<<" + "<<m<<"="<<s<<endl; 
   
          return 0; 
  }
